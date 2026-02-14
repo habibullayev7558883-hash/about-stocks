@@ -801,7 +801,7 @@
         }
 
         /* Responsive */
-        @media (max-width: 968px) {
+        @media (0<width<567px) {
             .hero-text h1 {
                 font-size: 3rem;
             }

@@ -17,7 +17,7 @@ elForm.addEventListener("submit",(e)=>{
 
 👤 Ism: ${elName.value}
 👤 Familiya: ${elLastName.value}
-🎂 Yosh: ${elNum.value}
+👤 Telefon: ${elNum.value}
 
   `;
 
